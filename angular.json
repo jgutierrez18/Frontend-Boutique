@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Boutique-frontend"
+    }
+  },
+  "defaultProject": "Boutique-frontend",
+  "cli": {
+    "analytics": "2016d023-481f-4229-b9bf-139bc2adb77c"
+  }
 }
